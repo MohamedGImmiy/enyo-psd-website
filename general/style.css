@@ -1,3 +1,15 @@
 .navbar-collapse{
     justify-content: flex-end;
 }
+
+/*----------------------------------------------Navigation------------------------------------------------*/
+img.banner-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -5;}
+
+.relative{
+    position: relative;
+
+}
