@@ -17,3 +17,24 @@
 position: relative;
 display: block;
 }
+
+.features h2,img  {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.price{
+    border: 10px solid aliceblue;
+    padding: 3em;
+    text-align: center;
+    padding: 3em;
+    background-color: #fff;
+}
+.price h4,h5,p{
+    display: block;
+}
+
+ strong.price-figure{
+    font-size: 2em;
+}
