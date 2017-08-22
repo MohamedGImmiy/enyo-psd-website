@@ -13,17 +13,51 @@
 
 }
 
+div.banner{
+    text-align: center;
+    padding-top: 4em;
+}
 .relative{
 position: relative;
 display: block;
 }
 
+button.enyo-btn{
+    border-radius: 50px;
+}
+.download-it{
+    padding: 3em;
+}
+div.media{
+    padding: 1em;
+}
+.lists{
+    list-style: none;
+    padding: 0;
+}
 .features h2,img  {
     text-align: center;
     margin: 0 auto;
     display: block;
 }
+.features h2{
+    padding-bottom: 1.7em;
+    padding-top: 1.7em;
+}
+.plans-center .row{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding: 2em 0 2em 0;
+}
 
+
+.plans-background{
+    background-color: aliceblue; 
+}
+.captilzation{
+    text-transform: uppercase;
+}
 .price{
     border: 10px solid aliceblue;
     padding: 3em;
@@ -45,8 +79,16 @@ display: block;
 div.contact-info{
     margin: 0 auto;
     text-align: center;
+    background-color: aliceblue;
+    padding: 3em 0 ;
 }
 
+div.contact-info h3{
+    margin: 1em 0;
+}
+div.contact-items{
+    margin:2em 0;
+}
 div.contact-items h5{
     display: inline-block;
     width: 15em;
@@ -55,11 +97,17 @@ div.contact-items h5{
 
 /*-------------------------------download----------------*/
 
-.download-temp{
+.download-temp h2,p{
     text-align: center;
     margin: 0 auto;
     width: 100%;
     max-width: 40em;
+    padding-top: 2em;
+}
+
+.download-temp button{
+        margin: 2em auto;
+        display: block;
 }
 
 .footer-img{
