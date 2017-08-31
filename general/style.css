@@ -20,7 +20,12 @@
     color: #fff;
 
 }
-
+nav.navbar a{
+    color: #fff!important;
+}
+nav.navbar button{
+    border-color: #fff!important ;
+}
 .navigation a{
     color: #fff;
 }
@@ -51,6 +56,12 @@ button.enyo-btn{
     display: flex;
     padding-top: 1em;
     align-items: center;
+}
+.contents{
+    background-color: #f7f9fb;
+}
+section{
+    padding: 50px 0;
 }
 div.media{
     padding: 1em;
