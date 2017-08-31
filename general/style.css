@@ -14,6 +14,17 @@
 
 }
 
+
+.navigation{
+    background-color: #0290d9;
+    color: #fff;
+
+}
+
+.navigation a{
+    color: #fff;
+}
+
 div.banner{
     text-align: center;
     padding-top: 4em;
@@ -62,8 +73,8 @@ div.media img{
     display: block;
 }
 .features h2{
-    padding-bottom: 1.7em;
-    padding-top: 1.7em;
+    padding-bottom: .7em;
+    padding-top: .7em;
 }
 .plans-center .row{
     text-align: center;
@@ -78,6 +89,8 @@ div.media img{
 }
 .captilzation{
     text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    color: #25365d;
 }
 .price{
     border: 10px solid aliceblue;
@@ -114,6 +127,7 @@ div.contact-items h5{
     display: inline-block;
     width: 15em;
 }
+
 
 
 /*-------------------------------download----------------*/
