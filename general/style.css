@@ -1,0 +1,172 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+/*----------------------------------------------Navigation------------------------------------------------*/
+.banner{
+    width: 100%;
+    height: 30em;
+    background-image:;
+    background: linear-gradient(rgba(255,255,255,0.00),rgba(255,255,255,1.00)),rgba(255,255,255,0.55) url("../imgs/mountain.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.navigation{
+    background-color: #0290d9;
+    color: #fff;
+
+}
+nav.navbar a{
+    color: #fff!important;
+}
+nav.navbar button{
+    border-color: #fff!important ;
+}
+.navigation a{
+    color: #fff;
+}
+
+div.banner{
+    text-align: center;
+    padding-top: 4em;
+}
+.relative{
+position: relative;
+display: block;
+}
+
+button.enyo-btn{
+    border-radius: 50px;
+    background-color: #25365d;
+    color: #ffffff;
+    border-style: none;
+    width: 130px;
+    height: 35px;
+}
+.download-it{
+    padding: 3em;
+    margin: 1em 0;
+}
+
+.mackbook{
+    display: flex;
+    padding-top: 1em;
+    align-items: center;
+}
+.contents{
+    background-color: #f7f9fb;
+}
+section{
+    padding: 50px 0;
+}
+div.media{
+    padding: 1em;
+}
+div.media img{
+    width: 50px;
+    height: 50px;
+}
+
+.lists{
+    list-style: none;
+    padding: 0;
+}
+.features{
+    margin-top: 3em;
+}
+.features h2,img  {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.features h2{
+    padding-bottom: .7em;
+    padding-top: .7em;
+}
+.plans-center .row{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding: 2em 0 2em 0;
+}
+
+
+.plans-background{
+    background-color: aliceblue; 
+}
+.captilzation{
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    color: #25365d;
+}
+.price{
+    border: 10px solid aliceblue;
+    padding: 3em;
+    text-align: center;
+    padding: 3em;
+    background-color: #fff;
+}
+.price h4,h5,p{
+    display: block;
+}
+
+ strong.price-figure{
+    font-size: 2em;
+}
+
+
+/*-----------contact--------------*/
+
+div.contact-info{
+    margin: 0 auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 3em 0 ;
+}
+
+div.contact-info h3{
+    margin: 1em 0;
+}
+div.contact-items{
+    margin:2em 0;
+}
+div.contact-items h5{
+    display: inline-block;
+    width: 15em;
+}
+
+
+
+/*-------------------------------download----------------*/
+
+.download-temp h2,p{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 40em;
+    padding-top: 2em;
+}
+
+.download-temp button{
+        margin: 2em auto;
+        display: block;
+}
+
+/*----------------footer------------------------*/
+.footer-img{
+    width: 100%;
+    height: 20em;
+   background: linear-gradient(rgba(255,255,255,1.00),rgba(255,255,255,0.00)),rgba(255,255,255,0.05) url("../imgs/footer.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    border-style: none;
+}
+
+
+
